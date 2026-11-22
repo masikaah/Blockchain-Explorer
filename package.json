@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@alchemy/wallet-apis": "^5.3.0",
+    "viem": "^2.58.4"
+  }
+}
